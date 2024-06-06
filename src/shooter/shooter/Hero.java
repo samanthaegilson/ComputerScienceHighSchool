@@ -1,13 +1,13 @@
 
 /** required package class namespace */
-package shooter;
+package shooter.shooter;
 
 /** required imports */
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
-import gametools.Directions;
-import gametools.GameCharacter;
-import gametools.Image;
+import shooter.gametools.Directions;
+import shooter.gametools.GameCharacter;
+import shooter.gametools.Image;
 
 /**
  * Hero.java - represents the hero of the survivor game

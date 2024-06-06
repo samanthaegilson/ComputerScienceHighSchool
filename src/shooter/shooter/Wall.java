@@ -1,10 +1,10 @@
 
 /** required package class namespace */
-package shooter;
+package shooter.shooter;
 
 /** required imports */
-import gametools.GameObject;
-import gametools.Image;
+import shooter.gametools.GameObject;
+import shooter.gametools.Image;
 
 /**
  * Wall.java - represents a wall in the survivor game

@@ -1,11 +1,11 @@
 
 /** required package class namespace */
-package shooter;
+package shooter.shooter;
 
 /** required imports */
-import gametools.GameCharacter;
-import gametools.Image;
-import tools.MediaPlayer;
+import shooter.gametools.GameCharacter;
+import shooter.gametools.Image;
+import shooter.tools.MediaPlayer;
 
 /**
  * Projectile.java - represents a projectile in the survivor game

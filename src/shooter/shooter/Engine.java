@@ -1,15 +1,15 @@
 
 /** required package class namespace */
-package shooter;
+package shooter.shooter;
 
 /** required imports */
 import java.awt.event.KeyEvent;
 import javax.swing.JLabel;
-import gametools.Image;
+import shooter.gametools.Image;
 import java.io.File;
 import javax.swing.ImageIcon;
-import tools.FileHandler;
-import tools.ImageTools;
+import shooter.tools.FileHandler;
+import shooter.tools.ImageTools;
 
 /**
  * Engine.java - the logic connected to the user interface that runs game logic

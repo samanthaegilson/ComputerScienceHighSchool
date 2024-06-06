@@ -1,13 +1,13 @@
 
 /** required package class namespace */
-package shooter;
+package shooter.shooter;
 
 /** required imports */
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.Timer;
-import gametools.GameObject;
-import gametools.Image;
+import shooter.gametools.GameObject;
+import shooter.gametools.Image;
 
 /**
  * SpawnPoint.java - represents the spawn point in the survivor game.

@@ -1,13 +1,13 @@
 
 /** required package class namespace */
-package shooter;
+package shooter.shooter;
 
 /** required imports */
 import java.util.ArrayList;
-import gametools.GameObject;
-import gametools.Image;
-import tools.MediaPlayer;
-import tools.Numbers;
+import shooter.gametools.GameObject;
+import shooter.gametools.Image;
+import shooter.tools.MediaPlayer;
+import shooter.tools.Numbers;
 
 /**
  * EnemyMaster.java - the spawner logic in the survivor game.

@@ -1,5 +1,5 @@
  /** Required package class namespace */
-package shooter;
+package shooter.shooter;
 
 
 /*

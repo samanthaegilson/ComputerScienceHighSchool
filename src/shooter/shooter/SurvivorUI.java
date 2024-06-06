@@ -1,6 +1,6 @@
 
 /** required package class namespace */
-package shooter;
+package shooter.shooter;
 
 /** required imports */
 import javax.swing.JLabel;

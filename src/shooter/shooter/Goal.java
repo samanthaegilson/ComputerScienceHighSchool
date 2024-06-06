@@ -1,10 +1,10 @@
 
 /** required package class namespace */
-package shooter;
+package shooter.shooter;
 
 /** required imports */
-import gametools.GameObject;
-import gametools.Image;
+import shooter.gametools.GameObject;
+import shooter.gametools.Image;
 
 /**
  * Goal.java - represents the goal of the survivor game
