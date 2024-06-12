@@ -6,11 +6,11 @@ package shooter.shooter;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.Timer;
-import gametools.Directions;
-import gametools.GameCharacter;
-import gametools.Image;
-import tools.MediaPlayer;
-import tools.Numbers;
+import shooter.gametools.Directions;
+import shooter.gametools.GameCharacter;
+import shooter.gametools.Image;
+import shooter.tools.MediaPlayer;
+import shooter.tools.Numbers;
 
 /**
  * Enemy.java - represents an enemy of the survivor game
